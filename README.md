@@ -11,8 +11,6 @@ The company is experiencing customer dissatisfaction due to delivery delays and 
 - SQL
 - Power BI
 - Excel
-- SQL
-- Table
 
 ## 📂 Dataset
 The dataset contains information about:
